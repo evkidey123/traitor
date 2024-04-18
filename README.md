@@ -62,3 +62,4 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 Изменение 2 в branch1
 Изменение 3 в branch1
 Добавление первого изменения в branch1.
+Добавление второго изменения в branch1.
